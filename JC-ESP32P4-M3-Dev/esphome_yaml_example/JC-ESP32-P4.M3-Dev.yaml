@@ -120,8 +120,7 @@ audio_dac:
     bits_per_sample: 16bit
     sample_rate: 44100
     use_mclk: True
-    use_microphone: True
-    microphone_type: analog
+    use_microphone: False
     mic_gain: 24DB
 
 i2s_audio:
